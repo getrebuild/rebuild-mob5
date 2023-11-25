@@ -1,3 +1,3 @@
 # rebuild-mob5
 
-使用 DCloud 5+ 打包 https://www.dcloud.io/runtime.html
+将 REBUILD [手机版](https://getrebuild.com/docs/manual/mobile-h5) 打包为独立 APP 使用。[参见教程](https://juejin.cn/post/7304923130606518308)
